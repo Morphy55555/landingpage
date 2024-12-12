@@ -59,6 +59,9 @@ a {
 
 .heroitems {
     display: flex;
+    
+    min-height: auto;
+    min-width: 0;
 }
 
 .heroitems img {
